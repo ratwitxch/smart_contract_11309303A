@@ -4,6 +4,7 @@
 3. Open file
 4. Compile files in **left sidebar**>**Solidity Compiler**
 5. Counter: Deploy Files in **left sidebar**>**Deploy and run transactions**
+
    StoreInfo: 
     1. Fill the number and word values 
     2. Deploy Files in **left sidebar**>**Deploy and run transactions**
